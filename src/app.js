@@ -1,9 +1,11 @@
+'use strict'
+
 import React, { Component } from 'react'
 
-class Title extends Component {
+class App extends Component {
     render() {
-        return (<h1>Titulo</h1>)
+        return (<h1>Título 21</h1>)
     }
 }
 
-export default Title
+export default App
